@@ -1,3 +1,7 @@
+# UPDATE
+
+Nevermind, it fails on 1.20 too.
+
 # go1.21-example-data-race
 
 OOF
